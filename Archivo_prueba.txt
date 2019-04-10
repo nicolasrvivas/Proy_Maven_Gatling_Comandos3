@@ -1,2 +1,6 @@
 Cambio en la rama --->>>   master
+<<<<<<< HEAD
 Cambio en la rama --->>>   rama_pruebas 1
+=======
+Cambio en la rama --->>>   rama_pruebas 2
+>>>>>>> rama_pruebas
